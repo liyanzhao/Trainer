@@ -8,3 +8,6 @@
   ![image](https://github.com/liyanzhao/Trainer/blob/master/Design.gif)
   
   
+  贝塞尔曲线参考:[hellocharts-android](https://github.com/lecho/hellocharts-android)
+  
+  
